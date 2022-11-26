@@ -2,6 +2,10 @@ body {
     font-family: "Open Sans", sans-serif;
 }
 
+.navbar {
+    background-color: #901CAD;
+}
+
 h1, h2, h3 {
     font-family: "Lobster", cursive;
 }
@@ -20,6 +24,7 @@ footer {
 }
 
 .jumbotron {
+    margin: 0;
     padding: 30px;
     background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
     color: white;
