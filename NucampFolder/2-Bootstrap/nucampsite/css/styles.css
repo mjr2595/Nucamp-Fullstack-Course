@@ -35,3 +35,9 @@ header h2 {
     border-bottom: 1px ridge;
     min-height: 200px;
 }
+
+.tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px;
+}
