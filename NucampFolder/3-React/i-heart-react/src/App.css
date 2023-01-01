@@ -1,0 +1,38 @@
+.App-header {
+    background-color: #744b78;
+    min-height: 20vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    color: white;
+}
+
+.hearts-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.heart {
+    width: 10rem;
+    height: 10rem;
+    margin: 2rem;
+}
+
+.heart-img {
+    width: 15rem;
+}
+
+.heart-message {
+    position: relative;
+    width: 8rem;
+    top: -9rem;
+    left: 1.5rem;
+    color: white;
+    color: black;
+    /* color: red; */
+    font-size: 1.5rem;
+    text-align: center;
+}
