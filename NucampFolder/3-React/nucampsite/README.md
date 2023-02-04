@@ -1,5 +1,12 @@
 # Getting Started with Create React App and Redux
 
+In order to get the required data, you must have json-server running! Located in NucampFolder/json-server
+
+```sh
+cd ../../json-server
+json-server -H 0.0.0.0 --watch db.json -p 3001 -d 2000
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
