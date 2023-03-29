@@ -33,6 +33,7 @@ campsiteRouter
     res.end(`Will send details of the campsite: ${req.params.campsiteId} to you`);
   })
   .post((req, res) => {
+    res.statusCode = 403;
     res.end(`POST operation not supported on /campsites/${req.params.campsiteId}`);
   })
   .put((req, res) => {
