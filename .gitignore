@@ -4,3 +4,4 @@
 **/mongodb/
 **/server.key
 **/server.cert
+**/config.js
