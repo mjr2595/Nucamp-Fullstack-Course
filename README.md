@@ -29,3 +29,7 @@ gcloud functions deploy nucampsiteServer --trigger-http --runtime nodejs12 --all
 ```
 
 Deployed MERN Stack website: [NuCamp Camping Site](https://nucampsite-client-michaelr.web.app)
+
+Honors project: [Barkbook](https://github.com/mjr2595/borker) 🐾
+
+![Nucamp Full Stack Certificate of Honor](./Full_Stack_Web_and_Mobile_Development_Certificate___Honor_Student.png)
